@@ -1,0 +1,48 @@
+*, *::before, *:after {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: SF Pro Display;
+  color: #182026;
+}
+
+.nav-bar {
+  font-size: 17px;
+  text-align: center;
+  background-color: #F5F8FA;
+  border-bottom: #D8E1E8;
+  color: #182026;
+  padding: 32px 0 32px 0;
+}
+
+
+h2 {
+  font-size: 17px;
+  font-weight: bold;
+}
+
+.line {
+  font-size: 13px;
+  background-color: #137CBD;
+  color: #F5F8FA;
+  font-weight: bold;
+  padding: 6px 13px 6px 13px;
+  border-radius: 3px;
+  text-align: center;
+}
+
+.time {
+  font-size: 14px;
+}
+
+.destination {
+  font-size: 14px;
+}
+
+.arrival {
+  font-size: 14px;
+}
+
+@media screen and (max-width: 375px) {
+}
