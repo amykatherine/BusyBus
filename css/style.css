@@ -3,9 +3,9 @@
 }
 
 body {
-  font-family: SF Pro Display;
+  font-family: Roboto;
   color: #182026;
-  background-image: url('../css/image-1.jpeg');
+  background-image: url('../css/Image-1.jpeg');
   background-size: contain;
   width: 100%;
 }
