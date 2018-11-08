@@ -6,7 +6,8 @@ body {
   font-family: Roboto;
   color: #182026;
   background-image: url('../css/Image-1.jpeg');
-  background-size: contain;
+  background-size: cover, contain;
+  background-repeat: no-repeat;
   width: 100%;
 }
 
@@ -113,7 +114,7 @@ hr {
 
 @media screen and (min-width: 375px) {
   .nav-bar {
-    margin: -5px 0px 318px -8px;
+    margin: -5px 0px 320px -8px;
   }
 }
 
