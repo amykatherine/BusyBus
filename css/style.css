@@ -6,7 +6,7 @@ body {
   font-family: Roboto;
   color: #182026;
   background-image: url('../css/Image-1.jpeg');
-  background-size: cover, contain;
+  background-size: contain;
   background-repeat: no-repeat;
   width: 100%;
 }
